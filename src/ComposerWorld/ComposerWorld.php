@@ -22,5 +22,6 @@ class ComposerWorld
 	public function sayComposer()
 	{
 		return 'Hello Composer!';
+		
 	}
 }
