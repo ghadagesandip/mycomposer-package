@@ -24,4 +24,8 @@ class ComposerWorld
 		return 'Hello Composer!';
 		
 	}
+
+	public function sayHello(){
+		return 'Hello Sandip';
+	}
 }
