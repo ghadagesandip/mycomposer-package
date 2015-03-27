@@ -14,5 +14,8 @@
         "psr-0": {
             "ComposerWorld\\": "src/"
         }
-    }
+    },
+    "config": {
+      "vendor-dir": "protected/extensions"
+    } 
 }
