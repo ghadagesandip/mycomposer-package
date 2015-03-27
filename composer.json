@@ -1,5 +1,5 @@
 {
-    "name": "root/mypackage",
+    "name": "sandip/hellocomposer",
     "authors": [
         {
             "name": "sandip home",
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-0": {
-            "HelloWorld\\": "src/"
+            "ComposerWorld\\": "src/"
         }
     }
 }
